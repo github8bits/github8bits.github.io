@@ -7,7 +7,7 @@
     }
    @font-face {
     font-family: Pixel7;
-    src: url('../fonts/computer_pixel-7.ttf');
+    src: url('/fonts/computer_pixel-7.ttf');
    }
    p {
     font-family: Pixel7, sans-serif;
