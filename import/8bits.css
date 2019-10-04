@@ -11,4 +11,7 @@
    p { 
     font-family: Pixel7, sans-serif; 
    }
+   html, body, pre, code, kbd, samp {
+    font-family: Pixel7, cursive;
+   }
 </style>
