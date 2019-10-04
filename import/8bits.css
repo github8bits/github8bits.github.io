@@ -5,10 +5,10 @@
      height: 100%;
      margin: 0
     }
-   @font-face {
-    font-family: Pixel7; /* Гарнитура шрифта */
-    src: url('../fonts/computer_pixel-7.ttf'); /* Путь к файлу со шрифтом */
-   }
+/*   @font-face {
+    font-family: Pixel7; 
+    src: url('../fonts/computer_pixel-7.ttf'); 
+   }*/
    p { 
     font-family: Pixel7, sans-serif; 
    }
