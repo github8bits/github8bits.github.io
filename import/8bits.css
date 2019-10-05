@@ -6,9 +6,16 @@
     }
    @font-face {
     font-family: Pixel7;
-/*    src: url('../fonts/computer_pixel-7.ttf'); */
     src: url('../fonts/computer_pixel-7.ttf');
-   }
+    }
+    @font-face {
+    font-family: ThinPixel7;
+    src: url('../fonts/thin_pixel-7.ttf');
+    }
+    @font-face {
+    font-family: Blazium;
+    src: url('../fonts/blazium.ttf');
+    }
    p {
     font-family: 'Press Start 2P', cursive;
     font-size: 100%;
@@ -17,7 +24,8 @@
     font-family: 'Press Start 2P';
    }
    h1 {
-     font-family: Pixel7;
-     font-size: 500%;
+     font-family: 'Press Start 2P';
+     font-size: 100%;
+     color: #86d112
    }
 </style>
