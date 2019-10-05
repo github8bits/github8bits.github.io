@@ -7,29 +7,17 @@
    @font-face {
     font-family: Pixel7;
 /*    src: url('../fonts/computer_pixel-7.ttf'); */
-<<<<<<< HEAD
     src: url('../fonts/computer_pixel-7.ttf');
    }
    p {
     font-family: 'Press Start 2P', cursive;
     font-size: 100%;
-=======
-    src: url('../fonts/thin_pixel-7.ttf');
->>>>>>> 5e2ff17b493a2cb733a42ada9b3709804ffc7fdd
    }
-/*   p {
-    font-family: Pixel7, 'Comic Sans MS', monospace, sans-serif;
-        font-size: 300%;
-   }*/
    html, body, pre, code, kbd, samp {
     font-family: 'Press Start 2P';
-/*    font-family: Pixel7; */
-<<<<<<< HEAD
    }
    h1 {
      font-family: Pixel7;
      font-size: 500%;
-=======
->>>>>>> 5e2ff17b493a2cb733a42ada9b3709804ffc7fdd
    }
 </style>
