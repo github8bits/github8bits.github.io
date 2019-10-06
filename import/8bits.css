@@ -16,16 +16,36 @@
     font-family: Blazium;
     src: url('../fonts/blazium.ttf');
     }
+    @font-face {
+     font-family: VGA8x16;
+     src: url('../fonts/PxPlus_IBM_VGA8.ttf');
+     }
    p {
-    font-family: 'Press Start 2P', cursive;
+    font-family: VGA8x16;
     font-size: 100%;
     }
 /*   html, body, pre, code, kbd, samp {
-    font-family: 'Press Start 2P';
+    font-family: 'Press Start 2P', cursive;
    } */
    h1 {
      font-family: 'Press Start 2P';
      font-size: 100%;
-     color: #86d112
+   }
+  .green0{
+    font-family: 'Press Start 2P';
+    color: #86d112
+   }
+  .green1 {
+    font-family: 'Press Start 2P';
+    color: #66FF66
+  }
+  .green2{
+    font-family: 'Press Start 2P';
+    color: #00FF66
+  }
+  .green3{
+    font-family: 'Press Start 2P';
+    color: #3e9573
+  }
    }
 </style>
