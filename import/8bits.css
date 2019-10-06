@@ -8,19 +8,18 @@
     font-family: Pixel7;
     src: url('../fonts/computer_pixel-7.ttf');
     }
-    @font-face {
+   @font-face {
     font-family: ThinPixel7;
     src: url('../fonts/thin_pixel-7.ttf');
     }
-    @font-face {
+   @font-face {
     font-family: Blazium;
     src: url('../fonts/blazium.ttf');
     }
    p {
     font-family: 'Press Start 2P', cursive;
     font-size: 100%;
-    color: #00FF66
-   }
+    }
 /*   html, body, pre, code, kbd, samp {
     font-family: 'Press Start 2P';
    } */
