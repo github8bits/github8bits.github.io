@@ -31,6 +31,11 @@
      font-family: 'Press Start 2P';
      font-size: 100%;
    }
+  .VT323{
+    font-family: 'VT323', monospace;
+    color: #66FF66;
+    font-size: 300%;    
+  }
   .green0{
     font-family: 'Press Start 2P';
     color: #86d112
