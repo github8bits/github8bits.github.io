@@ -20,6 +20,15 @@
      font-family: VGA8x16;
      src: url('../fonts/PxPlus_IBM_VGA8.ttf');
      }
+     hr {
+       display: block;
+       margin-top: 0;
+       margin-bottom: 0;
+       margin-left: auto;
+       margin-right: auto;
+       border-style: inset;
+       border-width: 1px;
+     }
    p {
     font-family: VGA8x16;
     font-size: 100%;
@@ -31,11 +40,6 @@
      font-family: 'Press Start 2P';
      font-size: 100%;
    }
-  .VT323{
-    font-family: 'VT323', monospace;
-    color: #66FF66;
-    font-size: 300%;    
-  }
   .green0{
     font-family: 'Press Start 2P';
     color: #86d112
