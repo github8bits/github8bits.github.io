@@ -47,8 +47,10 @@
   .green1 {
     font-family: 'Press Start 2P';
 /*    color: #86d112 */
-/*    color: #66FF66 */
-    color: green;
+/*    color: #66FF66  */
+/*    color: #00b140; */
+    /* color: #98be6d; */
+    color: black;
   }
   .green2{
     font-family: 'Press Start 2P';
