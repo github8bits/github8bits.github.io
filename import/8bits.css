@@ -60,5 +60,13 @@
     font-family: 'Press Start 2P';
     color: #3e9573
   }
+  .insidetabletext{
+    font-family: VGA8x16;
+    font-size: 100%;
+  }
+  table {
+    border-collapse: collapse;
+    border-spacing: 1em;
+  }
    }
 </style>
