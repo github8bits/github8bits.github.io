@@ -35,6 +35,9 @@
     }
 /*   html, body, pre, code, kbd, samp {
     font-family: 'Press Start 2P', cursive;
+    p {
+    margin-top: 0.5em;
+    margin-bottom: 1em;
    } */
    h1 {
      font-family: 'Press Start 2P';
