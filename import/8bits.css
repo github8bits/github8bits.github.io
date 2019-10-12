@@ -69,7 +69,7 @@
   }
   table {
     border-collapse: collapse;
-    border-spacing: 1em;
+    /*border-spacing: 1em;*/
   }
   td *{
   vertical-align:middle
