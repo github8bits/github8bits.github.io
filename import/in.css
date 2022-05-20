@@ -1,10 +1,10 @@
 <style type="text/css">
-hr {
+p {
  color: red;
- width: 300;
+ font-size: 200%;
 }
 .sobaka {
   color: green;
-  width: 50%
+  width: 50%;
 }
 </style>
