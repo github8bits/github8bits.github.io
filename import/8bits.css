@@ -74,5 +74,12 @@
   td *{
   vertical-align:middle
   }
+  .news {
+    padding: 0px 0px 10px 50px;
+    width: 230px;
+    border:0px solid red;
+    text-align:left;
+    float:left;
+  }
    }
 </style>
